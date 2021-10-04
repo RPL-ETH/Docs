@@ -1,4 +1,4 @@
-Shufflemint Studios, Generative Art Factory
+##Shufflemint Studios, Generative Art Factory
 
 **Background:**
 Shufflemint Studios is the software used to create CryptoHoots. This software allows anyone that owns a Hoot, or has >= 1 HOOT token to use this software and create a generative art project. 
